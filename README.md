@@ -134,7 +134,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<img width="1891" height="980" alt="Screenshot 2025-10-06 190652" src="https://github.com/user-attachments/assets/16daefed-42f5-4436-9e4f-399003c327e6" />
+(<img width="1891" height="980" alt="Screenshot 2025-10-06 190652" src="https://github.com/user-attachments/assets/16daefed-42f5-4436-9e4f-399003c327e6" />
 )
 
 ## RESULT
