@@ -26,9 +26,6 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
-
-## OUTPUT
 <!DOCTYPE html>
 <html> 
 <head>
@@ -39,7 +36,7 @@ Execute the program using runserver command.
      <center> 
      <img src="logo.jpg" height="150" width="800">
      </center>
-      <h3 align="center">  SLOT TIME TABLE - STUDENT NAME ( 25017708) </h3>
+      <h3 align="center">  SLOT TIME TABLE - STUDENT NAME ( 25012221) </h3>
         
        <table align="center"border="3" bgcolor="CYANX"height="100" width="300"cellpadding="3"cellspacing="4" >
         <tr>
@@ -132,6 +129,10 @@ Execute the program using runserver command.
          </table>   
     </body>
 </html>
+
+## OUTPUT
+
+![Uploading Screenshot 2025-10-06 190652.png…]()
 
 
 ## RESULT
